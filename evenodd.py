@@ -4,4 +4,4 @@ def even_odd(num):
     else:
         print("Odd number")
 
-even_odd(7)
+print("Even and odd: ", even_odd(7))
