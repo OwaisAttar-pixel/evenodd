@@ -1,7 +1,7 @@
 def even_odd(num):
     if num % 2 == 0:
-        print("Even number")
+        return "Even number"
     else:
-        print("Odd number")
+        return "Odd number"
 
 print("Even and odd: ", even_odd(7))
